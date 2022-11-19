@@ -32,3 +32,5 @@ solveSudoku([
 ```
 
 Write your code in `src/index.js`
+
+New comments added to the cloned repo of sudoku
